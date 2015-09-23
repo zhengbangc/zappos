@@ -685,8 +685,9 @@ a.socialicon.dribbble:hover {
 }
 
 /******************************************************************
-	Services
+	Passions
 ******************************************************************/
+
 .servicesitem img {
 	margin-top: 60px;
 	margin-left: 60px;
@@ -699,7 +700,8 @@ a.socialicon.dribbble:hover {
 	height: 200px;
 	display: inline-block;
 	cursor: pointer;
-	margin-left: 30px;
+	margin-left: 55px;
+	margin-right: 55px;
 }
 .servicesitem .front, .servicesitem .back {
 	width: 200px;
