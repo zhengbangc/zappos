@@ -389,7 +389,7 @@ a.logo {
 	background-image: url(../img/logo.png);
 	margin: 27px 0px 0px 40px;
 }
-@media screen and (min-width: 992px){
+
 ul.mainmenu {
 	font-family: "Open Sans", Verdana, Arial, sans-serif;
 	float: right;
@@ -397,17 +397,7 @@ ul.mainmenu {
 	text-transform: uppercase;
 	font-weight: 300;
 }
-}
 
-@media screen and (max-width: 992px){
-ul.mainmenu {
-	font-family: "Open Sans", Verdana, Arial, sans-serif;
-	float: right;
-	margin: 0px 0px 0px 0px;
-	text-transform: uppercase;
-	font-weight: 300;
-}
-}
 ul.mainmenu li {
 	position: relative;
 	cursor: pointer;
