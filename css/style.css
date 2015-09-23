@@ -907,7 +907,7 @@ article.post p {
         border-radius: 20px;
         padding: 20px;
         margin-top: 10px;
-        margin-bottom: 20px;
+        margin-bottom: 150px;
         margin-left: auto;
         margin-right: auto;
         color: #FFF;
@@ -928,7 +928,8 @@ article.post p {
 
 .finalwords
 {
-	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-bottom: 60px;
 	margin-left: auto;
 	margin-right: auto;
 	width: 450px;
